@@ -75,6 +75,7 @@ namespace TextMerge
                             break;
                     }
                 }
+                Console.ReadKey();
             }
             catch (Exception ex)
             {

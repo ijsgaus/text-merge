@@ -7,6 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextMerge", "TextMerge\Text
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextMerger", "TextMerger\TextMerger.csproj", "{CE09F9CB-D62F-4C33-8B6C-44BD80823357}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{863AC00E-B7FC-4897-85FE-2601C53F6F2E}"
+	ProjectSection(SolutionItems) = preProject
+		Samples\lao.txt = Samples\lao.txt
+		Samples\lt.txt = Samples\lt.txt
+		Samples\tzu.txt = Samples\tzu.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
